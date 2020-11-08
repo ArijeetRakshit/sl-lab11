@@ -1,0 +1,11 @@
+{
+  "name": "calculator_node",
+  "version": "1.0.0",
+  "description": "Calculator using Node by Arijeet Rakshit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arijeet Rakshit",
+  "license": "ISC"
+}
