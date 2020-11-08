@@ -2,10 +2,9 @@
 
 Calculator using Node.js.
 
-## Run
-
-To run the program
+## Run Server
 
 ```bash
 node index.js
+Navigate to http://localhost:3000/
 ```
